@@ -144,7 +144,7 @@ p {
     font-size: 36px;
 }
 
-
+/* changed .footer to footer */
 footer {
     padding: 30px;
     clear: both;
@@ -152,6 +152,7 @@ footer {
     text-align: center;
 }
 
+/* changed .footer to footer */
 footer h2 {
     font-size: 20px;
 }
